@@ -55,7 +55,7 @@
     "intersection-observer": "^0.12.2",
     "isomorphic-dompurify": "^0.20.0",
     "node-fetch": "~2.6.7",
-    "patch-package": "^6.4.7",
+    "patch-package": "^6.5.0",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-click-outside-hook": "^1.1.1",
