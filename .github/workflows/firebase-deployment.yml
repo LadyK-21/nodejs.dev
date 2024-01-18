@@ -27,13 +27,13 @@ jobs:
         run: npm ci
 
       - name: Gatsby Cache Folder
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           key: cache-folder-ubuntu-latest
           path: .cache
 
       - name: Gatsby Public Folder
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           key: public-folder-ubuntu-latest
           path: public
